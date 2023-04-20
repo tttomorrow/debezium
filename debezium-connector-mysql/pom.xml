@@ -52,7 +52,7 @@
         <dependency>
             <groupId>org.opengauss</groupId>
             <artifactId>opengauss-jdbc</artifactId>
-            <version>3.1.0-og</version>
+            <version>3.1.1-og</version>
         </dependency>
         <dependency>
             <groupId>mil.nga.sf</groupId>
