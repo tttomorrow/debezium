@@ -42,7 +42,7 @@
 
         <!-- Scripting -->
         <version.groovy>3.0.7</version.groovy>
-        <version.graalvm.js>20.0.0</version.graalvm.js>
+        <version.graalvm.js>23.1.0</version.graalvm.js>
 
         <!-- Testing -->
         <version.junit>4.13.1</version.junit>
